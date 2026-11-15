@@ -2,9 +2,9 @@
 
 # MOOVIA
 
-### Velocity-Based Training, validado.
+### Velocity-Based Training con datos que puedes comprobar.
 
-Sensor inalámbrico a **1000 Hz** que mide cada repetición: **VMP, velocidad pico, ROM, tempo y conteo** — validados contra encoder lineal.
+Sensor inalámbrico que muestrea la IMU a **1000 Hz** y calcula en cada repetición **VMP, velocidad pico, ROM, tempo y conteo**. Estamos en fase de prototipo: estas métricas todavía no están validadas contra un sistema de referencia (encoder lineal o cámara de alta velocidad), y por eso exportamos la señal cruda para que se puedan contrastar.
 
 [🌐 moovia.app](https://moovia.app) · [Instagram](https://www.instagram.com/moovia.app) · [LinkedIn](https://www.linkedin.com/company/moovia-app-) · [YouTube](https://www.youtube.com/channel/UCbLA7HbfGZRzJMIHT53AArw)
 
@@ -14,7 +14,7 @@ Sensor inalámbrico a **1000 Hz** que mide cada repetición: **VMP, velocidad pi
 
 ## Qué es MOOVIA
 
-Un wearable que se coloca en la manga de la barra y captura el movimiento a 1000 Hz. Al terminar el set, tu móvil muestra las métricas de cada repetición — velocidad, ROM, tempo y conteo — con datos crudos exportables en JSON. La visualización 3D de la trayectoria de la barra llega en la V2.1 (enero 2027).
+Un wearable que se coloca en la manga de la barra y captura el movimiento a 1000 Hz. Al terminar el set, tu móvil muestra las métricas de cada repetición — velocidad, ROM, tempo y conteo — con datos crudos exportables en JSON.
 
 ## Ecosistema
 
